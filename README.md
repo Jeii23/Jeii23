@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeii</h1>
 <h3 align="center">A passionate programmer from Spain</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/Jeii23/Jeii23/assets/92090803/70c8835e-67aa-4680-bb83-55bba4f227c1)
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/Jeii23/Jeii23/assets/92090803/4bcc0f34-7dac-4dc0-9e2d-763c83d301d3)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeii23&label=Profile%20views&color=0e75b6&style=flat" alt="jeii23" /> </p>
