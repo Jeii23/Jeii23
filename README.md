@@ -10,8 +10,6 @@
 
 - 💻 Technology enthusiast who keeps up with everyday
 
-- 👨‍💻 I have participated in university programming projects using different languages.
-
 - 👨‍💻 All of my projects are available at [https://github.com/Jeii23](https://github.com/Jeii23)
 
 - 🌐 Gaining knowledge in network management and administration.
