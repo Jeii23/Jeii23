@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeii</h1>
 <h3 align="center">A passionate programmer from Spain</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/Jeii23/Jeii23/assets/92090803/4bcc0f34-7dac-4dc0-9e2d-763c83d301d3)
-">
+<img align="right" alt="Coding" width="400" src="[![image](https://github.com/Jeii23/Jeii23/assets/92090803/5b0e60d6-0b51-42aa-9610-cdc0468ce5b1)
+](https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1714608000&v=beta&t=Ixz7P6Pndr2ibHKrD_MRdx8VqTZU63c9A7A2NytFa7E)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeii23&label=Profile%20views&color=0e75b6&style=flat" alt="jeii23" /> </p>
 
