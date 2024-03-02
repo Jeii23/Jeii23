@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yssfdevops&label=Profile%20views&color=0e75b6&style=flat" alt="yssfdevops" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeii23&label=Profile%20views&color=0e75b6&style=flat" alt="jeii23" /> </p>
 
 - 📚 I’m currently studying **Computer Science and in my third year.**
 
